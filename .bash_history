@@ -1,7 +1,3 @@
-cd Desktop/
-ls
-cg gittest/
-cd gittest/
 git status
 git commit -m"My first commit"
 --global
